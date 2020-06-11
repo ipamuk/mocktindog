@@ -1,2 +1,1 @@
-# mocktindog
-web development course task
+TinDog Starting Files
